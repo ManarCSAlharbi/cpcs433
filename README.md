@@ -21,13 +21,6 @@ This project implements and compares multiple approaches to parking space occupa
 **Deep Learning Approach:**
 - Custom CNN architecture
 
-## Key Results
-
-The SVM model with HOG features achieved the best performance:
-- **HOG + SVM: 97.43% accuracy** ⭐
-- LBP + SVM: 86.83% accuracy
-- ORB + SVM: 51.71% accuracy
-
 ## Project Structure
 
 1. **Data Loading & Preprocessing**: Image loading and train/validation split
